@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilkGoldFish
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning spring cloud
 - 💞️ I’m looking to collaborate on web application
 - 📫 How to reach me silkgoldfish@163.com
 
